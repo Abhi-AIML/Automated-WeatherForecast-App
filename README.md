@@ -27,17 +27,6 @@ GitHub Copilot played a vital role in the following areas:
 
 GitHub Copilot proved to be an invaluable tool throughout the development process, significantly reducing development time, enhancing code accuracy, and providing helpful insights and suggestions along the way.
 
-## Installation
-1. Clone the repository:git clone https://github.com/Fastest-Coder-First/Hackathon-Abhi.git
-   
-2. Install dependencies:
-- Make sure you have Python installed on your machine.
-- Open a terminal or command prompt.
-- Change the current directory to the cloned repository.
-- Run the following command to install the necessary dependencies:
-  ```
-  pip install -r requirements.txt
-  ```
 
 ## Usage
 
