@@ -10,8 +10,7 @@ The Weather Forecasting Tool is a command-line application that provides current
 * Destination Suggestions: If planning a trip, get weather forecasts for the destination city, along with travel suggestions and activities to do during the trip.
 * GitHub Copilot Assistance: Throughout the development process, GitHub Copilot provides valuable suggestions, enhancing API usage, data parsing, error handling, and overall code efficiency.
 
-https://github.com/Fastest-Coder-First/Hackathon-Abhi/assets/136588531/1c9129fd-44b7-4c51-895a-ba891010ef33
-
+https://github.com/Abhi-AIML/Automated-WeatherForecast-App/assets/136588531/5157acc7-d093-4c0c-ad68-0842b4e5039c
 
 # APIs Used
 OpenWeatherMap API: Used to fetch weather data for current and destination cities.
